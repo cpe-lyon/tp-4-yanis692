@@ -11,12 +11,16 @@
 4.
 
 5. 
-'''dpkg -l | wc -l''' 
-''' apt list --installed | wc -l
+```
+dpkg -l | wc -l
+``` 
+```
+apt list --installed | wc -l
+```
 Cette différence de comptage est du a des ligne d'erreur et ou de commentaire qui sont pris en compte.
 On ne peut pas utiliser le fichier dpkg.log car comme son nom l'indique il est present pour garder un historique des différent paquet utiliser.
 
-6. '''cat /etc/apt/sources.list''' on peut observer 20 liens disponible.
+6. ```cat /etc/apt/sources.list``` on peut observer 20 liens disponible.
 
 7. L'outil glances est comparables au gestionnaire des taches de windows.Pour lancer cette outil il faut juste entrer '''glences'''. Tldr permet de rendre plus accéssibles les information du manuelle, il va simplifier le manuelle est nous afficher que les point les plus importants pour l'utilisateur, c'est-a-dire, la commande et ses options.
 L'outil hollywood est un outil 'fun' c'est a dire il va simuler une attaque informatique est va alors afficher plusieurs information, du binaire et autre qui feront croire que vous realiser une attaque informatique.
