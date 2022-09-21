@@ -10,7 +10,8 @@
 
 4.
 
-5. '''dpkg -l | wc -l''' 
+5. 
+'''dpkg -l | wc -l''' 
 ''' apt list --installed | wc -l
 Cette différence de comptage est du a des ligne d'erreur et ou de commentaire qui sont pris en compte.
 On ne peut pas utiliser le fichier dpkg.log car comme son nom l'indique il est present pour garder un historique des différent paquet utiliser.
