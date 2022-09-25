@@ -55,8 +55,8 @@ dpkh -l coreutils 2>/dev/null | grep"^ii" > /dev/null && echo "install" || echo 
 ```
 # Exercice 4
 
-'''
+```
 dpkg -L coreutils
-'''
+```
 
 # Exercice 5
