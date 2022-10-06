@@ -130,7 +130,7 @@ programmes que vous écrivez comme s’ils provenaient de dépôts officiels
 
 3.
 
-![image](https://user-images.githubusercontent.com/77662970/194333900-d75ddb63-855b-4b53-bb4c-893c5c89c88f.png)
+![image](https://user-images.githubusercontent.com/77662970/194334321-bb2722ad-ceb1-440c-a353-a9ab3dc27f9e.png)
 
 
 
