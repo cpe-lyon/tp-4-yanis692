@@ -116,4 +116,19 @@ Le résultat :
 
 ![image](https://user-images.githubusercontent.com/77662970/194325903-8d405d55-8519-4596-939b-f462e527533c.png)
 
+# Exercice 8
+Dans cet exercice, vous allez créer vos propres paquets et dépôts, ce qui vous permettra de gérer les
+programmes que vous écrivez comme s’ils provenaient de dépôts officiels
+
+![image](https://user-images.githubusercontent.com/77662970/194327065-a5ab09d7-9aa1-439d-b3e6-d2051f6758e0.png)
+
+![image](https://user-images.githubusercontent.com/77662970/194326982-197e431b-2fb0-4e32-8255-a885108a8c1f.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/77662970/194327851-2b6129db-72d7-4dd1-b8f8-74abfc4705aa.png)
+
+3.
+![image](https://user-images.githubusercontent.com/77662970/194328324-41f2fc3a-a2a4-4067-9dd5-c2754e4ef6d5.png)
+
 
