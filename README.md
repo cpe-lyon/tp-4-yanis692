@@ -126,7 +126,8 @@ programmes que vous écrivez comme s’ils provenaient de dépôts officiels
 
 2.
 
-![image](https://user-images.githubusercontent.com/77662970/194327851-2b6129db-72d7-4dd1-b8f8-74abfc4705aa.png)
+![image](https://user-images.githubusercontent.com/77662970/194333778-a9e8a604-c393-4ee8-a18b-b61e0baf4981.png)
+
 
 3.
 ![image](https://user-images.githubusercontent.com/77662970/194328324-41f2fc3a-a2a4-4067-9dd5-c2754e4ef6d5.png)
