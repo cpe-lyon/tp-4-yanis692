@@ -56,13 +56,13 @@ indiquant quel paquet l’a installée.
 est la commande qui permet de voir quel est le paquet qui a installée la commande ls. Le paquet est ```coreutils: /bin/ls```
 En une seule commande cela reviendrai a faire 
 ```
-wich -a ls | xargs dpkg -S 2>/dev/null | cut -f1 -d:
+which -a ls | xargs dpkg -S 2>/dev/null | cut -f1 -d:
 ```
 le script est le suivant:
 
 ```
 #!/bin/bash
-wich -a $1 | xargs dpkg -S 2>/dev/null | cut -f1 -d:
+which -a $1 | xargs dpkg -S 2>/dev/null | cut -f1 -d:
 ```
 
 
