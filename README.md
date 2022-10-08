@@ -15,8 +15,10 @@ grep installed /var/log/dpkg.log | tail -n5 | cut -d: -f1
 
 ## 4. Listez les derniers paquets qui ont été installés explicitement avec la commande apt install
 ```
-grep "apt install" /var/log/apt/history.log
+cat "apt install" /var/log/apt/history.log | cut -d ' ' -f4
 ```
+![image](https://user-images.githubusercontent.com/77662970/194703926-94bc9730-15b2-458c-b692-c9aaa142f438.png)
+
 ## 5. Utilisez les commandes dpkg et apt pour compter de deux manières différentes le nombre de total de
 paquets installés sur la machine (ne pas hésiter à consulter le manuel !). Comment explique-t-on la
 (petite) différence de comptage ? Pourquoi ne peut-on pas utiliser directement le fichier dpkg.log ?
